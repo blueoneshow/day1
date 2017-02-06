@@ -18,5 +18,4 @@ for i in range(24):
         draw_multicolor_square(john, size)
         john.right(15)
         
-
 window.exitonclick()
